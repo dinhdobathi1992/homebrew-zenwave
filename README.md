@@ -2,7 +2,7 @@
 
 Homebrew Cask tap and macOS release binaries for **ZenWave** (an Apache-2.0 fork of [Wave Terminal](https://github.com/wavetermdev/waveterm); see [LICENSE](LICENSE) and [NOTICE](NOTICE)).
 
-**Landing Page:** https://dinhdobathi1992.github.io/homebrew-zenwave/
+**Landing Page:** https://wave.zens.vn/
 
 ## Install (macOS Apple Silicon)
 
