@@ -1,0 +1,25 @@
+ZenWave
+Copyright 2026, ZenWave contributors
+
+This product is a modified version of Wave Terminal
+(https://github.com/wavetermdev/waveterm), forked at upstream commit 9f1c9670
+(v0.14.5), licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Original work:
+Copyright 2025, Command Line Inc.
+
+Modifications made by ZenWave (high level):
+- Renamed the application to "ZenWave" (product name, bundle id dev.zenwave.app,
+  npm package name, window titles, About panel, menus) and replaced the app icon
+  and in-app logos with original ZenWave artwork.
+- Moved every local and remote path, socket and cache name from "waveterm" /
+  "~/.waveterm" to "zenwave" / "~/.zenwave" so ZenWave runs side by side with
+  stock Wave Terminal without sharing data.
+- Disabled the auto-updater and removed the release feed; telemetry, Wave cloud
+  endpoints and diagnostic pings are off/no-ops by default.
+- Changed the macOS packaging to produce locally built, ad-hoc signed arm64
+  builds.
+- User-interface and theming changes (see the git history for details).
+
+"Wave Terminal" is the name of the upstream project by Command Line Inc. ZenWave
+is not affiliated with or endorsed by Command Line Inc.
