@@ -5,6 +5,8 @@ Homebrew Cask tap and macOS release binaries for **ZenWave** (an Apache-2.0 fork
 ## Install (macOS Apple Silicon)
 
 ```sh
+brew tap dinhdobathi1992/zenwave
+brew trust dinhdobathi1992/zenwave
 brew install --cask dinhdobathi1992/zenwave/zenwave
 ```
 
