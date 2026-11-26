@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="zw-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1e23"/>
+      <stop offset="1" stop-color="#0d0e11"/>
+    </linearGradient>
+  </defs>
+  <rect x="100" y="100" width="824" height="824" rx="186" ry="186" fill="url(#zw-bg)"/>
+  <rect x="101.5" y="101.5" width="821" height="821" rx="184.5" ry="184.5" fill="none" stroke="#e6e6e6" stroke-opacity="0.10" stroke-width="3"/>
+  <circle cx="512" cy="512" r="262" fill="none" stroke="#7aa2f7" stroke-width="54" stroke-linecap="round"
+          stroke-dasharray="1480 166" transform="rotate(-62 512 512)"/>
+  <path d="M362 532 C 412 452, 462 452, 512 532 S 612 612, 662 532" fill="none" stroke="#e6e6e6" stroke-opacity="0.92"
+        stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
