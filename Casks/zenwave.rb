@@ -1,8 +1,8 @@
 cask "zenwave" do
   arch arm: "arm64"
 
-  version "0.16.14"
-  sha256 "fcbf54e17e5be6cb42532d3b2d5b3432703be2d0c3106930cb4a0277d18fab9d"
+  version "0.16.15"
+  sha256 "7531d9825233926c605b4e18b418b05bb2d0e2ed9e7388976a13fc3d243ec36b"
 
   url "https://github.com/dinhdobathi1992/homebrew-zenwave/releases/download/zw-v#{version}/ZenWave-darwin-#{arch}-#{version}.zip"
   name "ZenWave"
